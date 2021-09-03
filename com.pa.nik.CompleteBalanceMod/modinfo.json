@@ -8,7 +8,7 @@
     "build": "115847",
     "date": "2021-6-28",
     "signature": " ",
-    "forum": "TBA",
+    "forum": "https://forums.planetaryannihilation.com/threads/niks-balance-tweaks-mod.73567/",
 	"scenes": {
         "new_game": [
             "coui://ui/mods/com.pa.nik.AABalance/new_game.js"
@@ -17,7 +17,7 @@
     "icon": "https://i.imgur.com/761WcHE.jpg",
     "priority": 4,
     "titansOnly": true,
-    "url": "WIP",
+    "url": "https://forums.planetaryannihilation.com/threads/niks-balance-tweaks-mod.73567/",
     "download": "https://github.com/NikolaMX/BalanceTweaks",
     "unitList": false,
     "fileSystem": false,
