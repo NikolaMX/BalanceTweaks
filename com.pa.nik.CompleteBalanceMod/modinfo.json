@@ -1,0 +1,50 @@
+{
+    "context": "server",
+    "identifier": "com.pa.nik.CompleteBalanceMod",
+    "display_name": "Nik's Balance Tweaks",
+    "description": "A collection of Balance fixes that improve underwhealming units",
+    "author": "NikolaMX",
+    "version": "0.1.0",
+    "build": "115847",
+    "date": "2021-6-28",
+    "signature": " ",
+    "forum": "TBA",
+	"scenes": {
+        "new_game": [
+            "coui://ui/mods/com.pa.nik.AABalance/new_game.js"
+        ]
+    },
+    "icon": "https://i.imgur.com/761WcHE.jpg",
+    "priority": 4,
+    "titansOnly": true,
+    "url": "WIP",
+    "download": "WIP",
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "balance",
+        "gameplay",
+        "titans",
+        "NikolaMX",
+		"Nik",
+		"Anti-Air",
+		"Land",
+		"Economy",
+		"Production",
+		"QoL tweak"
+    ],
+    "sort": "AA Stinger Balance",
+    "authors": [
+        "NikolaMX"
+    ],
+    "timestamp": 1548374400000,
+    "dependencies": [],
+    "companions": [],
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "classicOnly": false,
+    "classic": false,
+    "titans": true,
+    "conflicts": {}
+}
