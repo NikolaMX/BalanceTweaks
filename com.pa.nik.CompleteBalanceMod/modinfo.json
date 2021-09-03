@@ -4,7 +4,7 @@
     "display_name": "Nik's Balance Tweaks",
     "description": "A collection of Balance fixes that improve underwhealming units",
     "author": "NikolaMX",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "build": "115847",
     "date": "2021-6-28",
     "signature": " ",
@@ -18,7 +18,7 @@
     "priority": 4,
     "titansOnly": true,
     "url": "WIP",
-    "download": "WIP",
+    "download": "https://github.com/NikolaMX/BalanceTweaks",
     "unitList": false,
     "fileSystem": false,
     "searchable": [
@@ -33,7 +33,7 @@
 		"Production",
 		"QoL tweak"
     ],
-    "sort": "AA Stinger Balance",
+    "sort": "Nik's Balance Tweaks",
     "authors": [
         "NikolaMX"
     ],
