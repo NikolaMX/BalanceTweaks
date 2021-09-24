@@ -1,24 +1,25 @@
-var BalanceFixLoaded;
-
-if (!BalanceFixLoaded) {
-  BalanceFixLoaded = true;
-
-  function quellerAIPersonalities() {
-    try {
+_.defer(function () {
+    model.localChatMessage(
+      "Nik's Balance Tweaks",
       
-
-      _.defer(function () {
-        model.localChatMessage(
-          loc("!LOC:Queller AI"),
-          loc(
-           "!LOC:Made by NikolaMX and a bunch of other top players. Adjusts and corrects some unit stats in minor ways to make them play as they should. Full changelog of the latest build: https://docs.google.com/document/d/1pKSYOdUPrl2ENDMOCQkByaZPJMpFH4ovQYEL9XaNRQA/edit?usp=sharing"
-          )
-        );
-      });
-    } catch (e) {
-      console.error(e);
-      console.error(JSON.stringify(e));
-    }
-  }
-  BalanceFix();
-}
+        "by Nik and friends. Minor balance fixes that make weak units more viable.
+Notable changes:
+T2 metal produces more
+T2 factories cost slightly reduced
+Jig reduced power generation and metal storage
+Ares HP decreased
+Atlas and Zeus HP increased
+Unit Cannon cost significantly decreased
+Colonel Cost decreased and range increased
+Leveler, Bluehawk, Gil-E, Drifter, Spark, Stryker and Ant range reduced slightly
+Ant rate of fire increased
+Storm and Mend HP increased
+Icarus HP inclreased and priorities fixed
+Stinger reworked to counter Icarus and be countered by Bombers
+Kestrel HP decreased and damage increased
+Power and metal storage HP reduced, power storage capacity increased
+Solar Array Power generation increased.
+"
+      
+    );
+  });
