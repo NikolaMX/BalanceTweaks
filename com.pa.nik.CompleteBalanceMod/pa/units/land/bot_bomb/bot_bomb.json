@@ -2,7 +2,7 @@
 "display_name":"Boom",
 "description":"!LOC:Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extremely fast.",
 "max_health":10,
-"build_metal_cost":60,
+"build_metal_cost":70,
 "wreckage_health_frac":0.0,
 "spawn_layers":"WL_LandHorizontal",
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,1.8]}},
