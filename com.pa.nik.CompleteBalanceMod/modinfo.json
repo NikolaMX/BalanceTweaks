@@ -17,8 +17,8 @@
     "icon": "https://i.imgur.com/761WcHE.jpg",
     "priority": 4,
     "titansOnly": true,
-    "url": "https://forums.planetaryannihilation.com/threads/niks-balance-tweaks-mod.73567/",
-    "download": "https://github.com/NikolaMX/BalanceTweaks",
+    "url": "https://github.com/NikolaMX/BalanceTweaks/archive/refs/heads/main.zip",
+    "download": "url": "https://github.com/NikolaMX/BalanceTweaks/archive/refs/heads/main.zip",
     "unitList": false,
     "fileSystem": false,
     "searchable": [
