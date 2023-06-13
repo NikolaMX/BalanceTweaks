@@ -1,6 +1,6 @@
 {
     "context": "server",
-    "identifier": "com.pa.nik.BalanceTweaks",
+    "identifier": "com.pa.nik.BalanceTweaks !OUTDATED! ",
     "display_name": "Nik's Balance Tweaks",
     "description": "A collection of Balance fixes that improve underwhealming units",
     "author": "NikolaMX",
