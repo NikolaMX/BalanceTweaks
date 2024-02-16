@@ -1,18 +1,24 @@
 {
     "context": "server",
     "identifier": "com.pa.nik.BalanceTweaks !OUTDATED! ",
-    "display_name": "Nik's Balance Tweaks",
-    "description": "A collection of Balance fixes that improve underwhealming units",
+    "display_name": "patch 4.2",
+    "description": "patch 4 for the Plat Cup tournament",
     "author": "NikolaMX",
     "version": "0.1.2",
-    "build": "115847",
+    "build": "116982",
     "date": "2021-6-28",
     "signature": " ",
-    "forum": "https://forums.planetaryannihilation.com/threads/niks-balance-tweaks-mod.73567/",
+    "forum": "",
 	"scenes": {
         "new_game": [
             "coui://ui/mods/com.pa.nik.BalanceTweaks/new_game.js"
-        ]
+        ],
+	"icon_atlas": [
+			"coui://ui/mods/consultants/icon_atlas.js"
+		],
+	"shared_build":[
+			"coui://ui/mods/consultants/shared_build.js"
+		]
     },
     "icon": "https://i.imgur.com/761WcHE.jpg",
     "priority": 4,
@@ -26,12 +32,12 @@
         "gameplay",
         "titans",
         "NikolaMX",
-		"Nik",
-		"Anti-Air",
-		"Land",
-		"Economy",
-		"Production",
-		"QoL tweak"
+	"Nik",
+	"Anti-Air",
+	"Land",
+	"Economy",
+	"Production",
+	"QoL tweak"
     ],
     "sort": "Nik's Balance Tweaks",
     "authors": [
