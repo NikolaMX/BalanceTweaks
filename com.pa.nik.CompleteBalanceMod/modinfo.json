@@ -1,56 +1,28 @@
 {
     "context": "server",
-    "identifier": "com.pa.nik.BalanceTweaks",
-    "display_name": "patch 4.2",
-    "description": "patch 4 for the Plat Cup tournament",
-    "author": "NikolaMX",
-    "version": "0.1.2",
+    "identifier": "patch4",
+    "display_name": "patch 4",
+    "description": "patch 4 for tournament",
+    "author": "CC",
+    "version": "1.7",
     "build": "116982",
-    "date": "2021-6-28",
-    "signature": " ",
+    "date": "2015-02-13",
+    "signature": "not yet implemented",
     "forum": "",
-	"scenes": {
-        "new_game": [
-            "coui://ui/mods/com.pa.nik.BalanceTweaks/new_game.js"
-        ],
-	"icon_atlas": [
+    "icon": "",
+    "priority": 90,
+    "category": [
+        "titans", "in-game","server"
+    ],
+    
+    "scenes": {
+		
+		"icon_atlas": [
 			"coui://ui/mods/consultants/icon_atlas.js"
 		],
-	"shared_build":[
+		"shared_build":[
 			"coui://ui/mods/consultants/shared_build.js"
 		]
-    },
-    "icon": "https://i.imgur.com/761WcHE.jpg",
-    "priority": 4,
-    "titansOnly": true,
-    "url": "https://github.com/NikolaMX/BalanceTweaks/archive/refs/heads/main.zip",
-    "download": "https://github.com/NikolaMX/BalanceTweaks/archive/refs/heads/main.zip",
-    "unitList": false,
-    "fileSystem": false,
-    "searchable": [
-        "balance",
-        "gameplay",
-        "titans",
-        "NikolaMX",
-	"Nik",
-	"Anti-Air",
-	"Land",
-	"Economy",
-	"Production",
-	"QoL tweak"
-    ],
-    "sort": "Nik's Balance Tweaks",
-    "authors": [
-        "NikolaMX"
-    ],
-    "timestamp": 1548374400000,
-    "dependencies": [],
-    "companions": [],
-    "framework": false,
-    "available": true,
-    "enabled": true,
-    "classicOnly": false,
-    "classic": false,
-    "titans": true,
-    "conflicts": {}
+		
+	}
 }
