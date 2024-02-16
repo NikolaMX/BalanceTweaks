@@ -1,0 +1,113 @@
+{
+    "Advanced Air Factory": {
+        "message": "Pokro\u010dil\u00e1 leteck\u00e1 tov\u00e1rna"
+    },
+    "Advanced Bot Factory": {
+        "message": "Pokro\u010dile bojov\u00fd v\u00fdrobn\u00ed bot"
+    },
+    "Advanced Energy Plant": {
+        "message": "Pokro\u010dil\u00e1 elektr\u00e1rna"
+    },
+    "Advanced Fabrication Bot": {
+        "message": "Pokro\u010dile bojov\u00fd v\u00fdrobn\u00ed bot"
+    },
+    "Advanced Fabrication Ship": {
+        "message": "Pokro\u010dil\u00e1 v\u00fdrobn\u00ed lo\u010f"
+    },
+    "Advanced Fabrication Vehicle": {
+        "message": "Pokro\u010dil\u00e9 v\u00fdrobn\u00ed vozidlo"
+    },
+    "Advanced Laser Defense Tower": {
+        "message": "Pokro\u010dil\u00e1 laserov\u00e1 obrann\u00e1 v\u011b\u017e"
+    },
+    "Advanced Metal Extractor": {
+        "message": "Pokro\u010dil\u00fd extraktor kovu"
+    },
+    "Advanced Naval Factory": {
+        "message": "Pokro\u010dil\u00e1 n\u00e1mo\u0159n\u00ed tov\u00e1rna"
+    },
+    "Advanced Radar": {
+        "message": "Pokro\u010dil\u00fd radar"
+    },
+    "Advanced Radar Satellite": {
+        "message": "Pokro\u010dil\u00fd radarov\u00fd satelit"
+    },
+    "Advanced Vehicle Factory": {
+        "message": "Pokro\u010dil\u00e1 tov\u00e1rna pro vozidla"
+    },
+    "Air Factory": {
+        "message": "Leteck\u00e1 tov\u00e1rna"
+    },
+    "Anti-nuke - Intercepts incoming nuclear missiles.": {
+        "message": "Anti-nuke - Zachycuje p\u0159\u00edchoz\u00ed jadern\u00e9 hlavice"
+    },
+    "Bot Factory": {
+        "message": "Tov\u00e1rna pro Boty"
+    },
+    "Energy Plant": {
+        "message": "Elektr\u00e1rna"
+    },
+    "Energy Storage": {
+        "message": "Sklad Energie"
+    },
+    "Fabrication Aircraft": {
+        "message": "V\u00fdrobn\u00ed letadlo"
+    },
+    "Fabrication Bot": {
+        "message": "V\u00fdrobn\u00ed bot"
+    },
+    "Fabrication Ship": {
+        "message": "V\u00fdrobn\u00ed lo\u010f"
+    },
+    "Fabrication Vehicle": {
+        "message": "V\u00fdrobn\u00ed vozidlo"
+    },
+    "LR-96 -Pacifier- Missile": {
+        "message": "LR-96 -Pacifier- St\u0159ela"
+    },
+    "Land Mine": {
+        "message": "Pozemn\u00ed mina"
+    },
+    "Laser Defense Tower": {
+        "message": "Laserov\u00e1 obrann\u00e1 v\u011b\u017e"
+    },
+    "Metal Extractor": {
+        "message": "Extraktor kovu"
+    },
+    "Metal Storage": {
+        "message": "Skladi\u0161t\u011b kovu"
+    },
+    "Naval Factory": {
+        "message": "N\u00e1mo\u0159n\u00ed Tov\u00e1rna"
+    },
+    "Orbital Fabrication Bot": {
+        "message": "Orbit\u00e1ln\u00ed v\u00fdrobn\u00ed bot"
+    },
+    "Orbital Factory": {
+        "message": "Orbit\u00e1ln\u00ed tov\u00e1rna"
+    },
+    "SXX-1304 Laser Platform": {
+        "message": "SXX-1304 Laserov\u00e1 Platforma"
+    },
+    "Single Laser Defense Tower": {
+        "message": "Laserov\u00e1 obrann\u00e1 v\u011b\u017e"
+    },
+    "Solar Array": {
+        "message": "Sol\u00e1rn\u00ed panel"
+    },
+    "Vehicle Factory": {
+        "message": "Tov\u00e1rna pro vozidla"
+    },
+    "Wall": {
+        "message": "Ze\u010f"
+    },
+    "Heavy Tank - Advanced short range, heavily armored vehicle with mobile radar.": {
+        "message": "T\u011b\u017ek\u00fd tank - pokro\u010dil\u00e9 t\u011b\u017ece obrn\u011bn\u00e9 vozidlo s kr\u00e1tk\u00fdm dojezdem a mobiln\u00edm radarem."
+    },
+    "Radar Jammer - Hides allied units from enemy radar in a radius around itself. Consumes power.": {
+        "message": "Radar Jammer - Skr\u00fdv\u00e1 spojeneck\u00e9 jednotky p\u0159ed nep\u0159\u00e1telsk\u00fdmi radary v okruhu kolem sebe. Spot\u0159ebov\u00e1v\u00e1 energii."
+    },
+    "Support Barge - Repairs damaged ships and auto reclaims wreckage. Builds and detects mines. Cannot help build units. Water hover.": {
+        "message": "Podp\u016frn\u00fd \u010dlun - Opravuje po\u0161kozen\u00e9 lod\u011b a automaticky vyzved\u00e1v\u00e1 vraky. Stav\u00ed a detekuje miny. Nem\u016f\u017ee pom\u00e1hat stav\u011bt jednotky. Vodn\u00ed vzn\u00e1\u0161edlo."
+    }
+}

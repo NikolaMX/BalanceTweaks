@@ -1,0 +1,143 @@
+{
+    "Advanced Air Factory": {
+        "message": "Fejlett Rep\u00fcl\u0151gy\u00e1r"
+    },
+    "Advanced Bot Factory": {
+        "message": "Fejlett Robotgy\u00e1r"
+    },
+    "Advanced Energy Plant": {
+        "message": "Fejlett Energia Gy\u00e1rt\u00f3"
+    },
+    "Advanced Fab Aircraft": {
+        "message": "Fejlett Gy\u00e1rt\u00f3rep\u00fcl\u0151"
+    },
+    "Advanced Fabrication Bot": {
+        "message": "Fejlett Gy\u00e1rt\u00f3robot"
+    },
+    "Advanced Fabrication Ship": {
+        "message": "Fejlett Gy\u00e1rt\u00f3haj\u00f3"
+    },
+    "Advanced Fabrication Vehicle": {
+        "message": "Fejlett Gy\u00e1rt\u00f3j\u00e1rm\u0171"
+    },
+    "Advanced Laser Defense Tower": {
+        "message": "Fejlett L\u00e9zeres V\u00e9delmi Torony"
+    },
+    "Advanced Metal Extractor": {
+        "message": "Fejlett F\u00e9mtermel\u0151"
+    },
+    "Advanced Naval Factory": {
+        "message": "Fejlett Haj\u00f3gy\u00e1r"
+    },
+    "Advanced Radar": {
+        "message": "Fejlett Radar"
+    },
+    "Advanced Radar Satellite": {
+        "message": "Fejlett Radar M\u0171hold"
+    },
+    "Advanced Torpedo Launcher": {
+        "message": "Fejlett Torped\u00f3kil\u00f6v\u0151"
+    },
+    "Advanced Vehicle Factory": {
+        "message": "Fejlett J\u00e1rm\u0171gy\u00e1r"
+    },
+    "Air Factory": {
+        "message": "Rep\u00fcl\u0151gy\u00e1r"
+    },
+    "Anti-Nuke Launcher": {
+        "message": "Anti-Atom Kil\u00f6v\u0151"
+    },
+    "Anti-nuke - Intercepts incoming nuclear missiles.": {
+        "message": "Anti-atom - Megsemmis\u00edti a k\u00f6zeled\u0151 nukle\u00e1ris rak\u00e9t\u00e1kat."
+    },
+    "Bot Factory": {
+        "message": "Robotgy\u00e1r"
+    },
+    "Energy Plant": {
+        "message": "Energia Gy\u00e1rt\u00f3"
+    },
+    "Energy Storage": {
+        "message": "Energia T\u00e1rol\u00f3"
+    },
+    "Fabrication Aircraft": {
+        "message": "Gy\u00e1rt\u00f3rep\u00fcl\u0151"
+    },
+    "Fabrication Bot": {
+        "message": "Gy\u00e1rt\u00f3robot"
+    },
+    "Fabrication Ship": {
+        "message": "Gy\u00e1rt\u00f3haj\u00f3"
+    },
+    "Fabrication Vehicle": {
+        "message": "Gy\u00e1rt\u00f3j\u00e1rm\u0171"
+    },
+    "LR-96 -Pacifier- Missile": {
+        "message": "LR-96 -B\u00e9k\u00e9ltet\u0151- Rak\u00e9ta"
+    },
+    "Land Mine": {
+        "message": "Tapos\u00f3akna"
+    },
+    "Laser Defense Tower": {
+        "message": "L\u00e9zeres V\u00e9delmi Torony"
+    },
+    "Metal Extractor": {
+        "message": "F\u00e9mtermel\u0151"
+    },
+    "Metal Storage": {
+        "message": "F\u00e9m T\u00e1rol\u00f3"
+    },
+    "Naval Factory": {
+        "message": "Haj\u00f3gy\u00e1r"
+    },
+    "Nuclear Missile Launcher": {
+        "message": "Nukle\u00e1ris Rak\u00e9tavet\u0151"
+    },
+    "Nuclear missile - Long range, large area damage, projectile": {
+        "message": "Nukle\u00e1ris rak\u00e9ta - Hossz\u00fat\u00e1v\u00fa, nagy t\u00e9rsebz\u00e9s\u0171 l\u00f6ved\u00e9k"
+    },
+    "Orbital Fabrication Bot": {
+        "message": "Bolyg\u00f3k\u00f6zeli Gy\u00e1rt\u00f3robot"
+    },
+    "Orbital Factory": {
+        "message": "Bolyg\u00f3k\u00f6zeli Gy\u00e1r"
+    },
+    "Orbital Launcher": {
+        "message": "Bolyg\u00f3k\u00f6zeli Egys\u00e9g Kil\u00f6v\u0151"
+    },
+    "Orbital and Deepspace Radar": {
+        "message": "Bolyg\u00f3k\u00f6zeli \u00e9s M\u00e9ly\u0171r Radar"
+    },
+    "SXX-1304 Laser Platform": {
+        "message": "SXX-1304 L\u00e9zer Platform"
+    },
+    "Single Laser Defense Tower": {
+        "message": "Egycs\u00f6v\u0171 L\u00e9zeres V\u00e9delmi Torony"
+    },
+    "Solar Array": {
+        "message": "Szol\u00e1r Panel"
+    },
+    "Teleporter": {
+        "message": "Teleportkapu"
+    },
+    "Torpedo Launcher": {
+        "message": "Torped\u00f3kil\u00f6v\u0151"
+    },
+    "Unit Cannon": {
+        "message": "Egys\u00e9g\u00e1gy\u00fa"
+    },
+    "Vehicle Factory": {
+        "message": "J\u00e1rm\u0171gy\u00e1r"
+    },
+    "Wall": {
+        "message": "Fal"
+    },
+    "Heavy Tank - Advanced short range, heavily armored vehicle with mobile radar.": {
+        "message": "Neh\u00e9z tank - Fejlett, r\u00f6vid hat\u00f3t\u00e1vols\u00e1g\u00fa, er\u0151sen p\u00e1nc\u00e9lozott j\u00e1rm\u0171 mobil radarral."
+    },
+    "Radar Jammer - Hides allied units from enemy radar in a radius around itself. Consumes power.": {
+        "message": "Radarzavar\u00f3 - Elrejti a sz\u00f6vets\u00e9ges egys\u00e9geket az ellens\u00e9ges radarok el\u0151l egy sugar\u00fa k\u00f6rben. Fogyaszt energi\u00e1t."
+    },
+    "Support Barge - Repairs damaged ships and auto reclaims wreckage. Builds and detects mines. Cannot help build units. Water hover.": {
+        "message": "T\u00e1mogat\u00f3 usz\u00e1ly - Jav\u00edtja a s\u00e9r\u00fclt haj\u00f3kat \u00e9s automatikusan visszaszerzi a roncsokat. Akn\u00e1kat \u00e9p\u00edt \u00e9s \u00e9szlel. Nem tud seg\u00edteni az egys\u00e9gek \u00e9p\u00edt\u00e9s\u00e9ben. V\u00edzi lebeg\u0151."
+    }
+}

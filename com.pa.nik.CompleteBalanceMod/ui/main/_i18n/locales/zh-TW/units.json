@@ -1,0 +1,551 @@
+{
+    "Advanced Air Factory": {
+        "message": "\u9032\u968e\u7a7a\u8ecd\u5de5\u5ee0"
+    },
+    "Advanced Anti-Air - Overhead heavy damage. Only attacks air.": {
+        "message": "\u9032\u968e\u9632\u7a7a - \u4e0a\u7a7a\u91cd\u5927\u50b7\u5bb3\u3002\u53ea\u653b\u64ca\u7a7a\u4e2d\u3002"
+    },
+    "Advanced Artillery - Extremely long range heavy damage. Can lay siege from very far away. Attacks land and sea targets.": {
+        "message": "\u9032\u968e\u706b\u7832 - \u6975\u9577\u8ddd\u96e2\u7684\u50b7\u5bb3\u3002\u53ef\u4ee5\u5f9e\u5f88\u9060\u7684\u5730\u65b9\u570d\u653b\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Advanced Bot Factory": {
+        "message": "\u9032\u968e\u6a5f\u5668\u4eba\u5de5\u5ee0"
+    },
+    "Advanced Combat Fabricator - Repairs much faster and auto reclaims wreckage. Can build teleporters and defences in addition to mines.": {
+        "message": "\u9032\u968e\u6230\u9b25\u5efa\u9020\u55ae\u4f4d - \u7dad\u4fee\u901f\u5ea6\u8f03\u5feb\uff0c\u4e26\u4e14\u80fd\u81ea\u52d5\u56de\u6536\u6b98\u9ab8\u3002\u9664\u4e86\u5730\u96f7\u4e4b\u5916\uff0c\u9084\u53ef\u4ee5\u5efa\u9020\u50b3\u9001\u7ad9\u548c\u9632\u79a6\u8a2d\u65bd\u3002"
+    },
+    "Advanced Combat Fabricator - Repairs much faster. Can build teleporters and turrets in addition to mines.": {
+        "message": "\u9032\u968e\u6230\u9b25\u88fd\u9020\u8005 - \u4fee\u7406\u5feb\u5f97\u591a\u3002\u9664\u4e86\u5730\u96f7\u4e4b\u5916\uff0c\u9084\u53ef\u4ee5\u5efa\u9020\u50b3\u9001\u7ad9\u548c\u7832\u5854\u3002"
+    },
+    "Advanced Economy - Produces energy.": {
+        "message": "\u9032\u968e\u8cc7\u6e90 - \u751f\u7522\u80fd\u6e90\u3002"
+    },
+    "Advanced Economy - Produces metal, can only be placed on metal deposits.": {
+        "message": "\u9032\u968e\u8cc7\u6e90 - \u751f\u7522\u91d1\u5c6c\uff0c\u53ea\u80fd\u653e\u5728\u91d1\u5c6c\u7926\u5e8a\u4e0a\u3002"
+    },
+    "Advanced Energy Plant": {
+        "message": "\u9032\u968e\u80fd\u6e90\u5de5\u5ee0"
+    },
+    "Advanced Fab Aircraft": {
+        "message": "\u9032\u968e\u88fd\u9020\u822a\u7a7a\u5668"
+    },
+    "Advanced Fabrication Bot": {
+        "message": "\u9032\u968e\u88fd\u9020\u6a5f\u5668\u4eba"
+    },
+    "Advanced Fabrication Ship": {
+        "message": "\u9032\u968e\u88fd\u9020\u8239\u8266"
+    },
+    "Advanced Fabrication Vehicle": {
+        "message": "\u9032\u968e\u88fd\u9020\u8f09\u5177"
+    },
+    "Advanced Fabricator - Build basic and advanced structures.": {
+        "message": "\u9032\u968e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u5efa\u7269\u3002"
+    },
+    "Advanced Fabricator - Builds basic and advanced naval structures.": {
+        "message": "\u9032\u968e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u6d77\u6230\u5efa\u7269\u3002"
+    },
+    "Advanced Fabricator - Builds basic and advanced structures.": {
+        "message": "\u9032\u968e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u5efa\u7269\u3002"
+    },
+    "Advanced Fabricator - Builds basic and advanced structures. Durable. More powerful than other fabricators.": {
+        "message": "\u9032\u968e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u5efa\u7269\u3002\u5f88\u8010\u7528\uff0c\u6bd4\u5176\u4ed6\u88fd\u9020\u55ae\u4f4d\u66f4\u5f37\u5927\u3002"
+    },
+    "Advanced Interplanetary Fighter - Stronger fighter. Can move between planets. Can only attack air targets.": {
+        "message": "\u9032\u968e\u661f\u969b\u6230\u9b25\u6a5f - \u66f4\u5f37\u5927\u7684\u6230\u9b25\u6a5f\u3002\u53ef\u4ee5\u5728\u884c\u661f\u4e4b\u9593\u79fb\u52d5\u3002\u53ea\u80fd\u653b\u64ca\u7a7a\u4e2d\u76ee\u6a19\u3002"
+    },
+    "Advanced Laser Defense Tower": {
+        "message": "\u9032\u968e\u96f7\u5c04\u9632\u79a6\u5854"
+    },
+    "Advanced Manufacturing - Builds basic and advanced air units.": {
+        "message": "\u9032\u968e\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u7a7a\u4e2d\u55ae\u4f4d\u3002"
+    },
+    "Advanced Manufacturing - Builds basic and advanced bots.": {
+        "message": "\u9032\u968e\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u6a5f\u5668\u4eba\u3002"
+    },
+    "Advanced Manufacturing - Builds basic and advanced land vehicles.": {
+        "message": "\u9032\u968e\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u9678\u5730\u8f09\u5177\u3002"
+    },
+    "Advanced Manufacturing - Builds basic and advanced naval units.": {
+        "message": "\u9032\u968e\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u8207\u9032\u968e\u6d77\u6230\u55ae\u4f4d\u3002"
+    },
+    "Advanced Manufacturing - Builds orbital satellites and spaceships.": {
+        "message": "\u9032\u968e\u88fd\u9020 - \u5efa\u9020\u8ecc\u9053\u885b\u661f\u548c\u8239\u8266\u3002"
+    },
+    "Advanced Metal Extractor": {
+        "message": "\u9032\u968e\u91d1\u5c6c\u63d0\u7149\u5668"
+    },
+    "Advanced Naval Factory": {
+        "message": "\u9032\u968e\u6d77\u8ecd\u5de5\u5ee0"
+    },
+    "Advanced Radar": {
+        "message": "\u9032\u968e\u96f7\u9054"
+    },
+    "Advanced Radar - Detects a vast area for enemy land, sea, and air units.": {
+        "message": "\u9032\u968e\u96f7\u9054 - \u5075\u6e2c\u5927\u7bc4\u570d\u7684\u6575\u65b9\u9678\u6d77\u7a7a\u55ae\u4f4d\u3002"
+    },
+    "Advanced Radar - Detects nearby enemy land, sea, and air units.": {
+        "message": "\u9032\u968e\u96f7\u9054 - \u5075\u6e2c\u9644\u8fd1\u7684\u6575\u65b9\u9678\u6d77\u7a7a\u55ae\u4f4d\u3002"
+    },
+    "Advanced Radar Satellite": {
+        "message": "\u9032\u968e\u96f7\u9054\u885b\u661f"
+    },
+    "Advanced Submarine - Radar stealth with very high damage. Attacks land, sea and undersea targets.": {
+        "message": "\u9032\u968e\u6f5b\u6c34\u8247 - \u96f7\u9054\u96b1\u5f62\uff0c\u6975\u9ad8\u50b7\u5bb3\u3002\u653b\u64ca\u9678\u5730\u3001\u6d77\u4e0a\u548c\u6d77\u5e95\u76ee\u6a19\u3002"
+    },
+    "Advanced Torpedo Launcher": {
+        "message": "\u9032\u968e\u9b5a\u96f7\u767c\u5c04\u5668"
+    },
+    "Advanced Turret - Equipped with direct fire anti-land, and anti-ship defenses.": {
+        "message": "\u9032\u968e\u7832\u5854 - \u914d\u5099\u76f4\u63a5\u5c04\u64ca\u9632\u9678\u548c\u53cd\u8266\u9632\u79a6\u3002"
+    },
+    "Advanced Vehicle Factory": {
+        "message": "\u9032\u968e\u8f09\u5177\u5de5\u5ee0"
+    },
+    "Air Factory": {
+        "message": "\u7a7a\u8ecd\u5de5\u5ee0"
+    },
+    "Air Transport - Load a land unit to transport for snipes or expansions.": {
+        "message": "\u7a7a\u4e2d\u904b\u8f38 - \u88dd\u8f09\u9678\u5730\u55ae\u4f4d\u904b\u8f38\u4ee5\u9032\u884c\u72d9\u64ca\u6216\u64f4\u5f35\u3002"
+    },
+    "All Terrain Bot - Can crawl almost anywhere.": {
+        "message": "\u5168\u5730\u5f62\u6a5f\u5668\u4eba\uff1a\u5e7e\u4e4e\u53ef\u4ee5\u5728\u4efb\u4f55\u5730\u65b9\u722c\u884c\u3002"
+    },
+    "Anti-Air Bot - Equipped with basic anti-air missiles.": {
+        "message": "\u9632\u7a7a\u6a5f\u5668\u4eba - \u914d\u5099\u57fa\u790e\u9632\u7a7a\u98db\u5f48\u3002"
+    },
+    "Anti-Air Defense - Equipped with homing missiles. Only attacks air.": {
+        "message": "\u9632\u7a7a\u9632\u79a6 - \u914d\u5099\u5c0e\u5411\u98db\u5f48\u3002\u53ea\u8972\u64ca\u7a7a\u4e2d\u3002"
+    },
+    "Anti-Nuke - Builds advanced anti-nuclear missiles.": {
+        "message": "\u53cd\u6838 - \u88fd\u9020\u9032\u968e\u53cd\u6838\u5c0e\u5f48\u3002"
+    },
+    "Anti-Nuke Launcher": {
+        "message": "\u53cd\u6838\u767c\u5c04\u5668"
+    },
+    "Anti-Orbital Defense - Rapid fire with high damage. Attacks orbital targets and intercepts drop pods.": {
+        "message": "\u53cd\u8ecc\u9053\u9632\u79a6 - \u5feb\u901f\u5c04\u64ca\uff0c\u9ad8\u50b7\u5bb3\u3002\u653b\u64ca\u8ecc\u9053\u76ee\u6a19\u3002\u6514\u622a\u7a7a\u964d\u8259\u3002"
+    },
+    "Anti-nuke - Intercepts incoming nuclear missiles.": {
+        "message": "\u53cd\u6838 - \u6514\u622a\u4f86\u8972\u7684\u6838\u5b50\u98db\u5f48\u3002"
+    },
+    "Artillery - Medium range for siege and area denial. Attacks land and sea targets.": {
+        "message": "\u706b\u7832 - \u653b\u57ce\u548c\u5340\u57df\u5c01\u9396\u7528\u7684\u4e2d\u7a0b\u6b66\u5668\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Assault Bot - Armoured with high damage guns and torpedoes. Amphibious. Attacks land and sea.": {
+        "message": "\u7a81\u64ca\u6a5f\u5668\u4eba - \u9ad8\u50b7\u5bb3\u69cd\u7832\u548c\u9b5a\u96f7\u88dd\u7532\u3002\u6c34\u9678\u5169\u7528\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u3002"
+    },
+    "Assault Tank - Devastating damage with heavy armor. Vulnerable to flanking. Attacks land and sea targets.": {
+        "message": "\u7a81\u64ca\u5766\u514b - \u914d\u5099\u6bc0\u6ec5\u6027\u50b7\u5bb3\u91cd\u7532\u3002\u5074\u7ffc\u70ba\u5f31\u9ede\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Attack Vehicle - Fast, adaptable, expendable. Attacks surface targets.": {
+        "message": "\u653b\u64ca\u8f09\u5177 - \u5feb\u901f\u3001\u9069\u61c9\u529b\u5f37\u3001\u6d88\u8017\u54c1\u3002\u653b\u64ca\u5730\u9762\u76ee\u6a19\u3002"
+    },
+    "Barrier - Blocks units and protects from incoming fire.": {
+        "message": "\u969c\u7919\u7269 - \u5c01\u9396\u55ae\u4f4d\u4e26\u4fdd\u8b77\u4e0d\u53d7\u4f86\u8972\u706b\u529b\u3002"
+    },
+    "Basic Economy - Produces energy.": {
+        "message": "\u57fa\u790e\u8cc7\u6e90 - \u751f\u7522\u80fd\u6e90\u3002"
+    },
+    "Basic Economy - Produces metal, can only be placed on metal deposits.": {
+        "message": "\u57fa\u790e\u8cc7\u6e90 - \u751f\u7522\u91d1\u5c6c\uff0c\u53ea\u80fd\u653e\u5728\u91d1\u5c6c\u7926\u5e8a\u4e0a\u3002"
+    },
+    "Basic Fabricator - Build basic structures.": {
+        "message": "\u57fa\u790e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u5efa\u7269\u3002"
+    },
+    "Basic Fabricator - Build basic structures. Weaker than other fabricators.": {
+        "message": "\u57fa\u790e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u672c\u5efa\u7269\u3002\u6bd4\u5176\u4ed6\u5efa\u9020\u55ae\u4f4d\u5f31\u3002"
+    },
+    "Basic Fabricator - Builds basic naval structures.": {
+        "message": "\u57fa\u790e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u6d77\u6230\u5efa\u7269\u3002"
+    },
+    "Basic Fabricator - Builds basic naval structures. Water hover.": {
+        "message": "\u57fa\u790e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u6d77\u6230\u5efa\u7269\u3002\u5efa\u65bc\u6c34\u4e0a\u3002"
+    },
+    "Basic Fabricator - Builds basic structures. Durable. More powerful than other fabricators.": {
+        "message": "\u57fa\u790e\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u57fa\u790e\u5efa\u7269\u3002\u5f88\u8010\u7528\uff0c\u6bd4\u5176\u4ed6\u88fd\u9020\u55ae\u4f4d\u66f4\u5f37\u5927\u3002"
+    },
+    "Basic Infantry - Fast, adaptable, expendable. Amphibious. Attacks land, air and sea targets when on land.": {
+        "message": "\u57fa\u790e\u6b65\u5175 - \u5feb\u901f\u3001\u9069\u61c9\u6027\u5f37\uff0c\u6d88\u8017\u6027\u3002\u6c34\u9678\u5169\u7528\u3002\u5728\u9678\u4e0a\u653b\u64ca\u9678\u6d77\u7a7a\u76ee\u6a19\u3002"
+    },
+    "Basic Infantry - Fast, adaptable, expendable. Amphibious. Attacks surface targets when on land.": {
+        "message": "\u57fa\u790e\u6b65\u5175 - \u5feb\u901f\u3001\u9069\u61c9\u529b\u5f37\u3001\u6d88\u8017\u54c1\u3002\u6c34\u9678\u5169\u7528\u3002\u5728\u9678\u4e0a\u653b\u64ca\u5730\u9762\u76ee\u6a19\u3002"
+    },
+    "Basic Manufacturing - Builds and launches basic orbital units.": {
+        "message": "\u57fa\u790e\u88fd\u9020 - \u5efa\u9020\u548c\u767c\u5c04\u57fa\u790e\u8ecc\u9053\u55ae\u4f4d\u3002"
+    },
+    "Basic Manufacturing - Builds basic air units.": {
+        "message": "\u57fa\u672c\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u7a7a\u4e2d\u55ae\u4f4d\u3002"
+    },
+    "Basic Manufacturing - Builds basic bots.": {
+        "message": "\u57fa\u790e\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u6a5f\u5668\u4eba\u3002"
+    },
+    "Basic Manufacturing - Builds basic land vehicles.": {
+        "message": "\u57fa\u790e\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u9678\u4e0a\u8f09\u5177\u3002"
+    },
+    "Basic Manufacturing - Builds basic naval units.": {
+        "message": "\u57fa\u790e\u88fd\u9020 - \u5efa\u9020\u57fa\u790e\u6d77\u6230\u55ae\u4f4d\u3002"
+    },
+    "Basic Radar - Detects a large area for enemy land, sea, and air units.": {
+        "message": "\u57fa\u790e\u96f7\u9054 - \u5075\u6e2c\u5927\u7bc4\u570d\u7684\u6575\u65b9\u9678\u6d77\u7a7a\u55ae\u4f4d\u3002"
+    },
+    "Basic Turret - Equipped with direct fire anti-land, and anti-ship defenses.": {
+        "message": "\u57fa\u790e\u7832\u5854 - \u914d\u5099\u76f4\u63a5\u5c04\u64ca\u9632\u9678\u548c\u53cd\u8266\u9632\u79a6\u3002"
+    },
+    "Basic radar - Detects nearby enemy land, sea, and air units.": {
+        "message": "\u57fa\u790e\u96f7\u9054 - \u5075\u6e2c\u9644\u8fd1\u7684\u6575\u65b9\u9678\u6d77\u7a7a\u55ae\u4f4d\u3002"
+    },
+    "Battleship - Long range advanced anti-ship, and anti-land guns.": {
+        "message": "\u6230\u8266 - \u9577\u7a0b\u9032\u968e\u53cd\u8266\u548c\u53cd\u9678\u7832\u3002"
+    },
+    "Bluehawk Tactical Missile": {
+        "message": "\u85cd\u9df9\u6230\u8853\u98db\u5f48"
+    },
+    "Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extremely fast.": {
+        "message": "\u70b8\u5f48\u6a5f\u5668\u4eba - \u81ea\u6bc0\u4ee5\u5c0d\u9644\u8fd1\u5340\u57df\u9020\u6210\u91cd\u5ea6\u50b7\u5bb3\u3002\u975e\u5e38\u5feb\u3002"
+    },
+    "Bot Factory": {
+        "message": "\u6a5f\u5668\u4eba\u5de5\u5ee0"
+    },
+    "Carpet Bomber - High damage over a wide area. Fragile and slow. Attacks land, sea and undersea targets.": {
+        "message": "\u5730\u6bef\u5f0f\u8f5f\u70b8\u6a5f - \u5c0d\u5ee3\u6cdb\u5340\u57df\u65bd\u4ee5\u9ad8\u50b7\u5bb3\u3002\u8106\u5f31\u4e14\u7de9\u6162\u3002\u653b\u64ca\u9678\u5730\u3001\u6d77\u4e0a\u548c\u6d77\u5e95\u76ee\u6a19\u3002"
+    },
+    "Catapult Tactical Missile": {
+        "message": "\u6295\u77f3\u6a5f\u6230\u8853\u98db\u5f48"
+    },
+    "Combat Fabricator - Repairs damaged units. Can build and detect mines. Can build teleporters. Can't help build other structures.": {
+        "message": "\u6230\u9b25\u5efa\u9020\u55ae\u4f4d - \u4fee\u7406\u640d\u58de\u7684\u55ae\u4f4d\u3002\u53ef\u4ee5\u5efa\u9020\u548c\u5075\u6e2c\u5730\u96f7\u3002\u4e0d\u80fd\u5354\u52a9\u5efa\u9020\u5176\u4ed6\u5efa\u7269\u3002"
+    },
+    "Commander Anti-Air Missile": {
+        "message": "\u6307\u63ee\u5b98\u9632\u7a7a\u98db\u5f48"
+    },
+    "Deep Space Radar": {
+        "message": "\u6df1\u592a\u7a7a\u96f7\u9054"
+    },
+    "Deep Space Radar - System wide planetary radar.": {
+        "message": "\u6df1\u592a\u7a7a\u96f7\u9054 - \u5168\u661f\u7cfb\u7bc4\u570d\u7684\u884c\u661f\u96f7\u9054\u3002"
+    },
+    "Deep Water Destroyer - Medium range with high damage. Very durable. Attacks land, sea and undersea targets.": {
+        "message": "\u6df1\u6c34\u9a45\u9010\u8266 - \u4e2d\u7a0b\u9ad8\u50b7\u5bb3\u3002\u975e\u5e38\u8010\u7528\u3002\u653b\u64ca\u9678\u5730\u3001\u6d77\u4e0a\u548c\u6d77\u5e95\u76ee\u6a19\u3002"
+    },
+    "Defense Satellite - Heavy orbital offensive and defensive platform with basic laser.": {
+        "message": "\u9632\u79a6\u885b\u661f - \u91cd\u578b\u8ecc\u9053\u653b\u9632\u5e73\u53f0\uff0c\u914d\u5099\u57fa\u790e\u96f7\u5c04\u3002"
+    },
+    "Delta V Engine - Used to move small to medium celestial bodies.": {
+        "message": "Delta V \u5f15\u64ce - \u7528\u65bc\u79fb\u52d5\u5c0f\u578b\u5230\u4e2d\u578b\u5929\u9ad4\u3002"
+    },
+    "Doomsday Titan - Destroys the planet it's built on once finished.": {
+        "message": "\u672b\u65e5\u6cf0\u5766 - \u4e00\u65e6\u5efa\u9020\u5b8c\u6210\u5c31\u6703\u6467\u6bc0\u6240\u5728\u7684\u884c\u661f\u3002"
+    },
+    "Dox Launcher - Builds and fires Dox at nearby targets.": {
+        "message": "\u767c\u5c04\u5668 - \u5efa\u9020 Dox \u4e26\u5c07\u5176\u5c04\u5411\u9644\u8fd1\u7684\u76ee\u6a19\u3002"
+    },
+    "Drone Carrier - Builds and launches missile drones at enemies. Attacks land, air and sea targets.": {
+        "message": "\u7121\u4eba\u6a5f\u822a\u6bcd - \u5efa\u9020\u4e26\u5c0d\u6575\u4eba\u767c\u5c04\u98db\u5f48\u7121\u4eba\u6a5f\u3002\u653b\u64ca\u9678\u6d77\u7a7a\u76ee\u6a19\u3002"
+    },
+    "Economy - Orbital energy generation.": {
+        "message": "\u8cc7\u6e90 - \u751f\u7522\u8ecc\u9053\u80fd\u6e90\u3002"
+    },
+    "Energy Plant": {
+        "message": "\u80fd\u6e90\u5ee0"
+    },
+    "Energy Storage": {
+        "message": "\u80fd\u6e90\u5132\u5b58"
+    },
+    "Fabrication Aircraft": {
+        "message": "\u88fd\u9020\u822a\u7a7a\u5668"
+    },
+    "Fabrication Bot": {
+        "message": "\u88fd\u9020\u6a5f\u5668\u4eba"
+    },
+    "Fabrication Ship": {
+        "message": "\u88fd\u9020\u8239\u8266"
+    },
+    "Fabrication Vehicle": {
+        "message": "\u88fd\u9020\u8f09\u5177"
+    },
+    "Fighter - Fast. High damage. Only attacks air targets.": {
+        "message": "\u6230\u9b25\u6a5f - \u5feb\u901f\u3002\u9ad8\u50b7\u5bb3\u3002\u53ea\u653b\u64ca\u7a7a\u4e2d\u76ee\u6a19\u3002"
+    },
+    "Fire Support - Medium range. Can fire over walls. Attacks land and sea targets.": {
+        "message": "\u706b\u529b\u652f\u63f4 - \u4e2d\u7a0b\u3002\u53ef\u4ee5\u5728\u570d\u7246\u4e0a\u958b\u706b\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Flak Tank - Damage over a very wide area. Only attacks air targets.": {
+        "message": "\u9ad8\u5c04\u7832\u5766\u514b - \u5728\u975e\u5e38\u5ee3\u6cdb\u7684\u5340\u57df\u5167\u9020\u6210\u50b7\u5bb3\u3002\u53ea\u653b\u64ca\u7a7a\u4e2d\u76ee\u6a19\u3002"
+    },
+    "Flame Tank - Short range, heavy armored vehicle.": {
+        "message": "\u5674\u706b\u5766\u514b - \u77ed\u7a0b\u91cd\u578b\u88dd\u7532\u8f09\u5177\u3002"
+    },
+    "Frigate - Durable. Rapid-fire. Attacks land, air, and sea targets.": {
+        "message": "\u5de1\u9632\u8266 - \u8010\u7528\u3002\u901f\u5c04\u3002\u653b\u64ca\u9678\u6d77\u7a7a\u76ee\u6a19\u3002"
+    },
+    "Galata Anti-Air Missile": {
+        "message": "\u52a0\u62c9\u5854\u9632\u7a7a\u98db\u5f48"
+    },
+    "Gas Mining - Advanced energy and metal creation satellite. Only works above gas giant planets.": {
+        "message": "\u5929\u7136\u6c23\u958b\u63a1 - \u9032\u968e\u80fd\u6e90\u548c\u91d1\u5c6c\u88fd\u9020\u885b\u661f\u3002\u53ea\u80fd\u5728\u5de8\u884c\u661f\u4e0a\u9762\u904b\u4f5c\u3002"
+    },
+    "Gunboat - Cheap. Fast. Expendable. Attacks land and sea targets.": {
+        "message": "\u7832\u8247 - \u4fbf\u5b9c\u3002\u5feb\u901f\u3002\u6d88\u8017\u54c1\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Gunboat - Cheap. Fast. Expendable. Water hover. Attacks land and sea targets.": {
+        "message": "\u7832\u8247 - \u4fbf\u5b9c\u3002\u5feb\u901f\u3002\u6d88\u8017\u54c1\u3002\u6c34\u4e0a\u55ae\u4f4d\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Gunship - Fast. Cheap. Durable. Attacks land and sea targets.": {
+        "message": "\u6b66\u88dd\u76f4\u5347\u6a5f - \u5feb\u901f\uff0c\u4fbf\u5b9c\u3002\u8010\u7528\u3002\u653b\u64ca\u9678\u5730\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Heavy Tank - Advanced short range, heavily armored vehicle.": {
+        "message": "\u91cd\u578b\u5766\u514b - \u9032\u968e\u77ed\u7a0b\u91cd\u88dd\u7532\u8f09\u5177\u3002"
+    },
+    "Hornet Tactical Missile": {
+        "message": "\u99ac\u8702\u6230\u8853\u98db\u5f48"
+    },
+    "Hover Destroyer - Long Range. Durable. Hover. Attacks land and sea targets.": {
+        "message": "\u76e4\u65cb\u9a45\u9010\u8266 - \u9577\u7a0b\u3002\u8010\u7528\u3002\u76e4\u65cb\u3002\u653b\u64ca\u9678\u4e0a\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Hover Tank - Fast. Can cross water and lava. Attacks land and sea targets.": {
+        "message": "\u76e4\u65cb\u5766\u514b - \u5feb\u901f\u3002\u53ef\u4ee5\u7a7f\u8d8a\u6c34\u548c\u7194\u5ca9\u3002\u653b\u64ca\u9678\u4e0a\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Hummingbird Air-To-Air Missile": {
+        "message": "\u8702\u9ce5\u7a7a\u5c0d\u7a7a\u98db\u5f48"
+    },
+    "Interplanetary Teleporter: Teleports units between linked Teleporters.": {
+        "message": "\u661f\u969b\u50b3\u9001\u7ad9 - \u5728\u9023\u7dda\u7684\u50b3\u9001\u7ad9\u4e4b\u9593\u50b3\u9001\u55ae\u4f4d\u3002"
+    },
+    "Interplanetary Transport - Builds and launches up to 12 units at once anywhere in the system.": {
+        "message": "\u661f\u969b\u904b\u8f38 - \u5728\u661f\u7cfb\u7684\u4efb\u4f55\u5730\u65b9\u4e00\u6b21\u5efa\u9020\u548c\u767c\u5c04\u9054 12 \u500b\u55ae\u4f4d\u3002"
+    },
+    "Invasion Titan - Can link with a teleporter to send units directly to planet surface. Attacks everything.": {
+        "message": "\u5165\u4fb5 Titan - \u53ef\u4ee5\u8207\u50b3\u9001\u7ad9\u9023\u7dda\u4e26\u5c07\u55ae\u4f4d\u76f4\u63a5\u50b3\u9001\u81f3\u884c\u661f\u8868\u9762\u3002\u653b\u64ca\u4efb\u4f55\u76ee\u6a19\u3002"
+    },
+    "LR-96 -Pacifier- Missile": {
+        "message": "LR-96 - \u5e73\u5b9a\u8005 - \u98db\u5f48"
+    },
+    "LR-96 Pacifier Nuclear Missile": {
+        "message": "LR-96 Pacifier \u6838\u5c0e\u5f48"
+    },
+    "Land Mine": {
+        "message": "\u5730\u96f7"
+    },
+    "Land Mine - Detonates when enemy units are in proximity.": {
+        "message": "\u5730\u96f7 - \u7576\u6575\u65b9\u55ae\u4f4d\u63a5\u8fd1\u6642\u5f15\u7206\u3002"
+    },
+    "Laser Defense Tower": {
+        "message": "\u96f7\u5c04\u9632\u79a6\u5854"
+    },
+    "Light Tank - Well-rounded. Reliable. Attacks land and sea targets.": {
+        "message": "\u8f15\u578b\u5766\u514b - \u5168\u65b9\u4f4d\u3002\u53ef\u9760\u3002\u653b\u64ca\u9678\u4e0a\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Lightning Titan - Heavy damage over a wide area. Attacks any targets except orbital.": {
+        "message": "\u9583\u96fb\u6cf0\u5766 - \u9020\u6210\u5927\u7bc4\u570d\u50b7\u5bb3\u3002\u653b\u64ca\u9664\u8ecc\u9053\u985e\u4ee5\u5916\u7684\u4efb\u4f55\u76ee\u6a19\u3002"
+    },
+    "Metal Extractor": {
+        "message": "\u91d1\u5c6c\u63d0\u7149\u5668"
+    },
+    "Metal Storage": {
+        "message": "\u91d1\u5c6c\u5132\u5b58"
+    },
+    "Missile Ship - Long range with radar. High damage anti-air and tactical missiles. Attacks land, sea, air, and orbital targets.": {
+        "message": "\u98db\u5f48\u8266 - \u9577\u7a0b\u914d\u5099\u96f7\u9054\u3002\u9ad8\u50b7\u5bb3\u9632\u7a7a\u98db\u5f48\u66a8\u6230\u8853\u98db\u5f48\u3002\u653b\u64ca\u9678\u4e0a\u3001\u6d77\u4e0a\u3001\u7a7a\u4e2d\u548c\u8ecc\u9053\u76ee\u6a19\u3002"
+    },
+    "Missile and Torpedo Drone - Fast, fragile, attacks land, sea and air.": {
+        "message": "\u98db\u5f48\u8207\u7121\u4eba\u6a5f - \u5feb\u901f\u3001\u8106\u5f31\uff0c\u653b\u64ca\u9678\u4e0a\u3001\u7a7a\u4e2d\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Mobile Anti-Air - Equipped with homing missiles. Only attacks air.": {
+        "message": "\u6a5f\u52d5\u9632\u7a7a - \u88dd\u5099\u5c0e\u5411\u98db\u5f48\u3002\u53ea\u653b\u64ca\u7a7a\u4e2d\u3002"
+    },
+    "Mobile Nuke - Detonates a nuke on death. Slow. Extremely durable. Self-destruct attack.": {
+        "message": "\u79fb\u52d5\u6838\u5f48 - \u5f15\u7206\u6b7b\u4ea1\u6838\u5f48\u3002\u7de9\u6162\u3002\u975e\u5e38\u8010\u7528\u3002\u81ea\u6bc0\u653b\u64ca\u3002"
+    },
+    "Mobile Tactical Missile - Long range with heavy damage. Fires homing missiles. Attacks land, sea and orbital targets.": {
+        "message": "\u6a5f\u52d5\u6230\u8853\u98db\u5f48 - \u9577\u7a0b\u91cd\u5ea6\u50b7\u5bb3\u3002\u767c\u5c04\u5c0e\u5411\u98db\u5f48\u3002\u653b\u64ca\u9678\u3001\u6d77\u548c\u8ecc\u9053\u76ee\u6a19\u3002"
+    },
+    "Mortar tank - Advanced long range mobile artillery.": {
+        "message": "\u8feb\u64ca\u7832\u5766\u514b - \u9032\u968e\u9577\u7a0b\u6a5f\u52d5\u706b\u7832\u3002"
+    },
+    "Nanobot Swarm - Extremely Fast. Cheap. Close range. Devastating damage. Hover. Attacks land and sea targets.": {
+        "message": "\u5948\u7c73\u6a5f\u5668\u4eba\u8702\u7fa4 - \u975e\u5e38\u5feb\u3002\u4fbf\u5b9c\u3002\u8fd1\u8ddd\u96e2\u3002\u6bc0\u6ec5\u6027\u50b7\u5bb3\u3002\u61f8\u6d6e\u55ae\u4f4d\u3002\u653b\u64ca\u9678\u4e0a\u8207\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Narwhal Anti-Air Missile": {
+        "message": "\u89d2\u9be8\u9632\u7a7a\u98db\u5f48"
+    },
+    "Naval Factory": {
+        "message": "\u6d77\u8ecd\u5de5\u5ee0"
+    },
+    "Nuclear Missile Launcher": {
+        "message": "\u6838\u5b50\u98db\u5f48\u767c\u5c04\u5668"
+    },
+    "Nuclear Missile Launcher - Builds interplanetary long range nuclear missile with large area damage.": {
+        "message": "\u6838\u5c0e\u5f48\u767c\u5c04\u5668 - \u5efa\u9020\u5177\u6709\u5927\u9762\u7a4d\u50b7\u5bb3\u7684\u661f\u969b\u9577\u7a0b\u6838\u5c0e\u5f48\u3002"
+    },
+    "Nuclear missile - Long range interplanetary, large area damage, projectile": {
+        "message": "\u6838\u5c0e\u5f48 - \u9577\u7a0b\u661f\u969b\uff0c\u5927\u7bc4\u570d\u50b7\u5bb3\u98db\u5f48\u3002"
+    },
+    "Nuclear missile - Long range, large area damage, projectile": {
+        "message": "\u6838\u5c0e\u5f48 - \u9577\u7a0b\u3001\u5927\u7bc4\u570d\u50b7\u5bb3\u98db\u5f48\u3002"
+    },
+    "Orbital Battleship - Rapid-Fire. Very durable. Heavy damage. Attacks everything.": {
+        "message": "\u8ecc\u9053\u6230\u8266 - \u5feb\u901f\u5c04\u64ca\u3002\u975e\u5e38\u8010\u7528\u3002\u91cd\u50b7\u5bb3\u3002\u653b\u64ca\u4efb\u4f55\u76ee\u6a19\u3002"
+    },
+    "Orbital Carrier - Can load up to 12 units.": {
+        "message": "\u8ecc\u9053\u822a\u6bcd - \u6700\u591a\u53ef\u88dd\u8f09 12 \u500b\u55ae\u4f4d\u3002"
+    },
+    "Orbital Fabrication Bot": {
+        "message": "\u8ecc\u9053\u88fd\u9020\u6a5f\u5668\u4eba"
+    },
+    "Orbital Fabricator - Builds orbital satellites and spaceships.": {
+        "message": "\u8ecc\u9053\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u8ecc\u9053\u885b\u661f\u548c\u822a\u8266\u3002"
+    },
+    "Orbital Fabricator - Builds orbital satellites, spaceships and TITANS.": {
+        "message": "\u8ecc\u9053\u5efa\u9020\u55ae\u4f4d - \u5efa\u9020\u8ecc\u9053\u885b\u661f\u3001\u822a\u8266\u548c TITANS\u3002"
+    },
+    "Orbital Factory": {
+        "message": "\u8ecc\u9053\u5de5\u5ee0"
+    },
+    "Orbital Fighter - Fast moving orbital fighter for offense and defense.": {
+        "message": "\u8ecc\u9053\u6230\u9b25\u6a5f - \u7528\u65bc\u9032\u653b\u548c\u9632\u79a6\u7684\u5feb\u901f\u79fb\u52d5\u8ecc\u9053\u6230\u9b25\u6a5f\u3002"
+    },
+    "Orbital Lander - Load it up and transport a unit to other planets.": {
+        "message": "\u8ecc\u9053\u767b\u9678\u5668 - \u88dd\u8f09\u55ae\u4f4d\u4e26\u904b\u8f38\u81f3\u5176\u4ed6\u884c\u661f\u3002"
+    },
+    "Orbital Laser Platform - Rains death from above.": {
+        "message": "\u8ecc\u9053\u96f7\u5c04\u5e73\u53f0 - \u6b7b\u4ea1\u5f9e\u4e0a\u65b9\u964d\u81e8\u3002"
+    },
+    "Orbital Launcher": {
+        "message": "\u8ecc\u9053\u767c\u5c04\u5668"
+    },
+    "Orbital and Deepspace Radar": {
+        "message": "\u8ecc\u9053\u66a8\u6df1\u592a\u7a7a\u96f7\u9054"
+    },
+    "Orbital and Deepspace Radar - Orbital and celestial radar telemetry.": {
+        "message": "\u8ecc\u9053\u66a8\u6df1\u592a\u7a7a\u96f7\u9054 - \u8ecc\u9053\u548c\u5929\u9ad4\u96f7\u9054\u9059\u6e2c\u3002"
+    },
+    "Phoenix Air-To-Air Missile": {
+        "message": "\u9cf3\u51f0\u7a7a\u5c0d\u7a7a\u98db\u5f48"
+    },
+    "Proxy Commander - Builds advanced structures. Amphibious. Durable. High damage. Attacks everything but orbital.": {
+        "message": "\u4ee3\u7406\u6307\u63ee\u5b98 - \u5efa\u9020\u9032\u968e\u5efa\u7269\u3002\u8010\u7528\u3002\u9ad8\u50b7\u5bb3\u3002\u653b\u64ca\u9664\u8ecc\u9053\u985e\u5916\u7684\u4efb\u4f55\u76ee\u6a19\u3002"
+    },
+    "Radar": {
+        "message": "\u96f7\u9054"
+    },
+    "Railgun Platform - Long range with high damage. Very low rate of fire. Uses energy. Attacks orbital.": {
+        "message": "\u8ecc\u9053\u7832\u5e73\u53f0 - \u9577\u7a0b\u3002\u9ad8\u50b7\u5bb3\u3002\u975e\u5e38\u4f4e\u5c04\u901f\u3002\u8017\u7528\u80fd\u6e90\u3002\u653b\u64ca\u8ecc\u9053\u3002"
+    },
+    "Rolling Fortress - Near invincible. Long range. Heavy damage. Hover. Attacks land and sea targets.": {
+        "message": "\u6efe\u52d5\u5821\u58d8 - \u8fd1\u4e4e\u7121\u6575\u3002\u9577\u7a0b\u3002\u91cd\u50b7\u5bb3\u3002\u76e4\u65cb\u3002\u653b\u64ca\u9678\u4e0a\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "SR-24 Shield Missile Defense": {
+        "message": "SR-24 \u795e\u76fe\u98db\u5f48\u9632\u79a6\u7cfb\u7d71"
+    },
+    "SXX-1304 Laser Platform": {
+        "message": "SXX-1304 \u96f7\u5c04\u5e73\u53f0"
+    },
+    "Scout - Fast. Can see far away and detects mines. Does not attack.": {
+        "message": "\u5075\u5bdf - \u5feb\u901f\u3002\u53ef\u4ee5\u770b\u5f97\u5f88\u9060\u3002\u5075\u6e2c\u5730\u96f7\u3002\u4e0d\u653b\u64ca\u3002"
+    },
+    "Scout - Fast. Can see far away. Does not attack.": {
+        "message": "\u5075\u5bdf - \u5feb\u901f\u3002\u53ef\u4ee5\u770b\u5f97\u5f88\u9060\u3002\u4e0d\u653b\u64ca\u3002"
+    },
+    "Sea Mine - Detonates when ships are in proximity.": {
+        "message": "\u6c34\u96f7 - \u7576\u8239\u8266\u9760\u8fd1\u6642\u5f15\u7206\u3002"
+    },
+    "Seismic Titan - Devastating damage to everything nearby. Amphibious. Attacks land, sea, and undersea targets.": {
+        "message": "\u5730\u9707 Titan - \u5c0d\u9644\u8fd1\u6240\u6709\u76ee\u6a19\u9020\u6210\u6bc0\u6ec5\u6027\u50b7\u5bb3\u3002\u6c34\u9678\u5169\u7528\u3002\u653b\u64ca\u9678\u5730\u3001\u6d77\u4e0a\u548c\u6d77\u5e95\u76ee\u6a19\u3002"
+    },
+    "Siege Bomber - Durable. Slow. Devastating damage. Attacks land and sea targets.": {
+        "message": "\u653b\u57ce\u8f5f\u70b8\u6a5f - \u8010\u7528\u3002\u6162\u3002\u7834\u58de\u6027\u50b7\u5bb3\u3002\u653b\u64ca\u9678\u4e0a\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Single Laser Defense Tower": {
+        "message": "\u55ae\u96f7\u5c04\u9632\u79a6\u5854"
+    },
+    "Sniper - Long range with high damage. Slow rate of fire. Intercepts missiles. Attacks land, air and sea targets.": {
+        "message": "\u72d9\u64ca\u624b - \u9577\u7a0b\u9ad8\u50b7\u5bb3\u3002\u5c04\u901f\u6162\u3002\u6514\u622a\u98db\u5f48\u3002\u653b\u64ca\u9678\u6d77\u7a7a\u76ee\u6a19\u3002"
+    },
+    "Sniper - Long range. High damage. Slow rate of fire. Intercepts missiles. Attacks land, air and sea targets.": {
+        "message": "\u72d9\u64ca\u624b - \u9577\u7a0b\u3002\u9ad8\u50b7\u5bb3\u3002\u5c04\u901f\u6162\u3002\u6514\u622a\u98db\u5f48\u3002\u653b\u64ca\u9678\u6d77\u7a7a\u76ee\u6a19\u3002"
+    },
+    "Solar Array": {
+        "message": "\u592a\u967d\u80fd\u9663\u5217"
+    },
+    "Solar Drone - Produces energy. Mobile but slow. Weak. Attacks land, air, and sea targets.": {
+        "message": "\u592a\u967d\u80fd\u7121\u4eba\u6a5f - \u751f\u7522\u80fd\u6e90\u3002\u6a5f\u52d5\u4f46\u6162\u3002\u5f31\u3002\u653b\u64ca\u9678\u6d77\u7a7a\u76ee\u6a19\u3002"
+    },
+    "Space Probe - Fast. Cheap. Expendable. Provides ground vision. Does not attack.": {
+        "message": "\u592a\u7a7a\u63a2\u6e2c\u5668 - \u5feb\u901f\u3002\u4fbf\u5b9c\u3002\u6d88\u8017\u54c1\u3002\u63d0\u4f9b\u5730\u9762\u8996\u91ce\u3002\u4e0d\u653b\u64ca\u3002"
+    },
+    "Spinner Anti-Air Missile": {
+        "message": "\u65cb\u8f49\u9632\u7a7a\u98db\u5f48"
+    },
+    "Stealth Sub - Radar stealth with very high damage. Attacks land, sea, and undersea targets.": {
+        "message": "\u96b1\u5f62\u6f5b\u6c34\u8247 - \u96f7\u9054\u96b1\u5f62\uff0c\u6975\u9ad8\u50b7\u5bb3\u3002\u653b\u64ca\u9678\u5730\u3001\u6d77\u4e0a\u548c\u6d77\u5e95\u76ee\u6a19\u3002"
+    },
+    "Stingray Anti-Air Missile": {
+        "message": "\u9ec3\u8c82\u9b5a\u9632\u7a7a\u98db\u5f48"
+    },
+    "Stingray Tactical Missile": {
+        "message": "\u9ec3\u8c82\u9b5a\u6230\u8853\u98db\u5f48"
+    },
+    "Storage - Increases maximum energy storage capacity.": {
+        "message": "\u5132\u5b58 - \u63d0\u9ad8\u6700\u5927\u80fd\u6e90\u5132\u5b58\u5bb9\u91cf\u3002"
+    },
+    "Storage - Increases maximum metal storage capacity.": {
+        "message": "\u5132\u5b58 - \u63d0\u9ad8\u6700\u5927\u91d1\u5c6c\u5132\u5b58\u5bb9\u91cf\u3002"
+    },
+    "Strafer Aircraft - Loud and annoying. Attacks land and sea targets.": {
+        "message": "\u6383\u8569\u8005\u822a\u7a7a\u5668 - \u88fd\u9020\u9ad8\u5206\u8c9d\u7684\u5608\u96dc\u566a\u97f3\u3002\u653b\u64ca\u9678\u4e0a\u3001\u7a7a\u4e2d\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Submarine - High damage. Cannot be targeted by cannons. Attacks sea and undersea targets.": {
+        "message": "\u6f5b\u8247 - \u9ad8\u50b7\u5bb3\u3002\u4e0d\u80fd\u88ab\u6a5f\u7832\u7784\u6e96\u3002\u653b\u64ca\u6d77\u4e0a\u548c\u6d77\u5e95\u76ee\u6a19\u3002"
+    },
+    "Submarine - Radar stealth. Attacks sea and undersea targets.": {
+        "message": "\u6f5b\u6c34\u8247 - \u96f7\u9054\u96b1\u5f62\u3002\u653b\u64ca\u6d77\u4e0a\u548c\u6d77\u5e95\u76ee\u6a19\u3002"
+    },
+    "Super Weapon - Build five on a metal planet to activate the Annihilazer.": {
+        "message": "\u8d85\u7d1a\u6b66\u5668 - \u5728\u91d1\u5c6c\u884c\u661f\u4e0a\u5efa\u9020\u4e94\u500b\uff0c\u53ef\u555f\u7528\u6ec5\u7d55\u96f7\u5c04\u3002"
+    },
+    "Support Platform - Repairs nearby units and auto reclaims wreckage. Intercepts homing missiles. Does not attack.": {
+        "message": "\u652f\u63f4\u5e73\u53f0 - \u4fee\u7406\u9644\u8fd1\u7684\u55ae\u4f4d\u3002\u6514\u622a\u5c0e\u5411\u98db\u5f48\u3002\u7121\u6cd5\u653b\u64ca\u3002"
+    },
+    "Tactical Bomber - Long range. High damage tactical missiles. Attacks land and sea targets.": {
+        "message": "\u6230\u8853\u8f5f\u70b8\u6a5f - \u9577\u7a0b\u3002\u9ad8\u50b7\u5bb3\u6230\u8853\u98db\u5f48\u3002\u653b\u64ca\u9678\u4e0a\u548c\u6d77\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Tactical Missile Launcher - Long range with very heavy damage. Attacks land, sea, and orbital targets.": {
+        "message": "\u6230\u8853\u98db\u5f48\u767c\u5c04\u5668 - \u9577\u7a0b\uff0c\u91cd\u5ea6\u50b7\u5bb3\u3002\u653b\u64ca\u9678\u4e0a\u3001\u6d77\u4e0a\u548c\u8ecc\u9053\u76ee\u6a19\u3002"
+    },
+    "Teleporter": {
+        "message": "\u50b3\u9001\u7ad9"
+    },
+    "Tesla Bot - Very high damage over a short range area. Uses energy. Attacks land targets.": {
+        "message": "\u7279\u65af\u62c9\u6a5f\u5668\u4eba - \u5728\u77ed\u7a0b\u7bc4\u570d\u9020\u6210\u6975\u9ad8\u50b7\u5bb3\u3002\u8017\u7528\u80fd\u6e90\u3002\u653b\u64ca\u9678\u4e0a\u76ee\u6a19\u3002"
+    },
+    "Torpedo Launcher": {
+        "message": "\u9b5a\u96f7\u767c\u5c04\u5668"
+    },
+    "Torpedo Launcher - Advanced anti-ship defense.": {
+        "message": "\u9b5a\u96f7\u767c\u5c04\u5668 - \u9032\u968e\u53cd\u8266\u9632\u79a6\u3002"
+    },
+    "Torpedo Launcher - Basic anti-ship defense.": {
+        "message": "\u9b5a\u96f7\u767c\u5c04\u5668 - \u57fa\u790e\u53cd\u8266\u9632\u79a6\u3002"
+    },
+    "Unit Cannon": {
+        "message": "\u55ae\u4f4d\u6a5f\u7832"
+    },
+    "Vehicle Factory": {
+        "message": "\u8f09\u5177\u5de5\u5ee0"
+    },
+    "Wall": {
+        "message": "\u570d\u7246"
+    },
+    "Stinger Anti-Air Missile": {
+        "message": "\u523a\u91dd\u5c0d\u7a7a\u98db\u5f48"
+    },
+    "Heavy Tank - Advanced short range, heavily armored vehicle with mobile radar.": {
+        "message": "\u91cd\u578b\u5766\u514b - \u914d\u5099\u79fb\u52d5\u96f7\u9054\u7684\u5148\u9032\u77ed\u7a0b\u91cd\u88dd\u7532\u8eca\u8f1b\u3002"
+    },
+    "Radar Jammer - Hides allied units from enemy radar in a radius around itself. Consumes power.": {
+        "message": "\u96f7\u9054\u5e79\u64fe\u5668 - \u5c07\u53cb\u8ecd\u55ae\u4f4d\u96b1\u85cf\u5728\u5176\u5468\u570d\u534a\u5f91\u7bc4\u570d\u5167\uff0c\u4f7f\u5176\u514d\u53d7\u6575\u65b9\u96f7\u9054\u7684\u5e72\u64fe\u3002\u6d88\u8017\u96fb\u529b\u3002"
+    },
+    "Support Barge - Repairs damaged ships and auto reclaims wreckage. Builds and detects mines. Cannot help build units. Water hover.": {
+        "message": "\u652f\u63f4\u99c1\u8239 - \u4fee\u5fa9\u53d7\u640d\u8239\u96bb\u4e26\u81ea\u52d5\u56de\u6536\u6b98\u9ab8\u3002\u5efa\u9020\u548c\u63a2\u6e2c\u5730\u96f7\u3002\u7121\u6cd5\u5e6b\u52a9\u5efa\u9020\u55ae\u4f4d\u3002\u6c34\u61f8\u6d6e\u3002"
+    }
+}
